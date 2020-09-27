@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/360EntSecGroup-Skylar/excelize v1.3.1-0.20180527032555-9e463b461434
-	github.com/EDDYCJY/go-gin-example v0.0.0-20200505102242-63963976dee0 // indirect
+	github.com/ujjwalmishra/fodie v0.1.0 // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/astaxie/beego v1.9.3-0.20171218111859-f16688817aa4
 	github.com/boombuler/barcode v1.0.1-0.20180315051053-3c06908149f7
